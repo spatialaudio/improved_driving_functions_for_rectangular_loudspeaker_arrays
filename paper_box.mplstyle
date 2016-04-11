@@ -1,0 +1,4 @@
+figure.figsize : 2.8, 2.5
+savefig.bbox : tight
+savefig.dpi : 300
+savefig.pad_inches : 0.01
